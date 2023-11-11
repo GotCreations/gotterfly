@@ -1,6 +1,0 @@
-variables:
-  TEST_VAR: "Testing ci"
-
-test:
-  script:
-    - echo $TEST_VAR
